@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Sphere : MonoBehaviour
 {
+	public float MovementSpeed = 1.0f;
 	public float Mass = 0.2f;
 	public float Dampening = 0.3f;
 
@@ -46,6 +47,16 @@ public class Sphere : MonoBehaviour
 		if(_oldMass != Mass)
 		{
 			UpdateMass();
+		}
+
+		float horiz = Input.GetAxis("Horizontal");
+		if(horiz < 0.0f)
+		{
+			addForce(Vector3.left * MovementSpeed);
+		}
+		else if(horiz > 0.0f)
+		{
+			addForce(Vector3.right * MovementSpeed);
 		}
 	}
 
