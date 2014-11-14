@@ -45,8 +45,6 @@ public class PhysicsManager : MonoBehaviour
 			s.addForce(gravityForce);
 
 			s.PhysicsUpdate(dt);
-			Debug.Log(s.Velocity);
-				
 
 			s.ClearForce();
 		}
