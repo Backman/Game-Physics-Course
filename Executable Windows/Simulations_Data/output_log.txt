@@ -1,0 +1,48 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Backman\Documents\GitHub\Game-Physics-Course\Executable\Simulations_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Backman\Documents\GitHub\Game-Physics-Course\Executable\Simulations_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Backman\Documents\GitHub\Game-Physics-Course\Executable\Simulations_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Backman\Documents\GitHub\Game-Physics-Course\Executable\Simulations_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.074 seconds
+desktop: 1920x1080 60Hz; virtual: 3000x1920 at 0,-840
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.396077 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 123.
+Total: 0.981457 ms (FindLiveObjects: 0.022424 ms CreateObjectMapping: 0.009901 ms MarkObjects: 0.073682 ms  DeleteObjects: 0.006989 ms)
+
+[Singleton] Using instance already created: Manager
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.851275 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 96.
+Total: 2.102706 ms (FindLiveObjects: 0.010484 ms CreateObjectMapping: 0.020968 ms MarkObjects: 0.163964 ms  DeleteObjects: 0.023881 ms)
+
+UnloadTime: 0.532374 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 155.
+Total: 2.089892 ms (FindLiveObjects: 0.017765 ms CreateObjectMapping: 0.021842 ms MarkObjects: 0.185224 ms  DeleteObjects: 0.006407 ms)
+
+[Singleton] Using instance already created: Manager
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.436267 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 102.
+Total: 0.814871 ms (FindLiveObjects: 0.004659 ms CreateObjectMapping: 0.009319 ms MarkObjects: 0.089991 ms  DeleteObjects: 0.025628 ms)
+
